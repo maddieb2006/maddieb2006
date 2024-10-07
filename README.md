@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maddieb2006
-- 👀 I’m interested in music, socializing, computer science, and working out.
+- 👀 I’m interested in music, socializing, coding, and working out.
 - 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on simple projects to improve my coding skills.
 - 📫 How to reach me madigbartlett@gmail.com
